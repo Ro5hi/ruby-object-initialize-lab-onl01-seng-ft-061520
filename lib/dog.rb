@@ -12,4 +12,4 @@ class Dog
   end
 end
 
-fido.new 
+Fido = Dog.new 
